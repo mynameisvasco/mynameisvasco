@@ -19,5 +19,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/mynameisvasco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mynameisvasco" height="30" width="30" /></a>
+<br>
 <a href="https://instagram.com/_mynameisvasco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mynameisvasco" height="30" width="30" /></a>
 </p>
