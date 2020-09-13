@@ -12,4 +12,4 @@ eval 'sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master
 eval "git clone https://github.com/denysdovhan/spaceship-prompt.git $ZSH_CUSTOM/themes/spaceship-prompt --depth=1"
 eval "ln -s $ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme $ZSH_CUSTOM/themes/spaceship.zsh-theme"
 eval "cp -avr .scripts ~/"
-eval "cp -avr .zshrc ~/"
+eval "cp -fR .zshrc ~/"
