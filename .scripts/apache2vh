@@ -1,6 +1,13 @@
 #!/bin/bash
 command="$1"
-vhConfTemplate="<VirtualHost *:80>
+
+if [ "$command" == "new" ]; then
+    echo "Creating a new apache2 Virtual Host..."
+    read -p "✏️  Project Name (lowercase, ex: test, my-project): " vhName
+    read -p "📁  Project Root Path: " vhRoot
+    read -p "🌐  Domain: " vhDomain
+    read -p "🔐  Enable SSL (yes/no): " vhSSL
+    vhConfTemplate="<VirtualHost *:80>
     ServerName $vhDomain
     ServerAlias www.$vhDomain
     ServerAdmin info@$vhDomain
@@ -17,13 +24,6 @@ vhConfTemplate="<VirtualHost *:80>
     ErrorLog \${APACHE_LOG_DIR}/error.log
     CustomLog \${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>"
-
-if [ "$command" == "new" ]; then
-    echo "Creating a new apache2 Virtual Host..."
-    read -p "✏️  Project Name (lowercase, ex: test, my-project): " vhName
-    read -p "📁  Project Root Path: " vhRoot
-    read -p "🌐  Domain: " vhDomain
-    read -p "🔐  Enable SSL (yes/no): " vhSSL
     echo $vhConfTemplate >"/etc/apache2/sites-available/$vhDomain.conf"
 
     eval "sudo a2ensite $vhName.conf"
@@ -35,7 +35,7 @@ if [ "$command" == "new" ]; then
     fi
 fi
 
-if ["$command" == "delete"]; then
+if [ "$command" == "delete" ]; then
     echo "Deleting an apache2 Virtual Host..."
     read -p "🌐  Domain: " vhDomain
     eval "sudo a2dissite $vhDomain.conf"
