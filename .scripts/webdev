@@ -1,0 +1,24 @@
+#!/bin/bash
+status="$1"
+
+if [ "$status" == "start" ]; then
+    echo "🚀  Starting web development tools..."
+    echo "⚙️  Starting PHP "
+    eval "brew services start php"
+    echo "🗄️  Starting MySQL"
+    eval "brew services start mysql"
+    echo "🔗  Starting NGINX"
+    eval "brew services start nginx"
+    echo "#️⃣  Starting DNSMasq"
+    eval "brew services start dnsmasq"
+elif [ "$status" == "stop" ]; then
+    echo "🛑  Stopping web development tools..."
+    echo "⚙️  Stopping PHP "
+    eval "brew services stop php"
+    echo "🗄️  Stopping MySQL"
+    eval "brew services stop mysql"
+    echo "🔗  Stopping NGINX"
+    eval "brew services stop nginx"
+    echo "#️⃣  Stopping DNSMasq"
+    eval "brew services stop dnsmasq"
+fi
