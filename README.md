@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco" alt="mynameisvasco" /> </p>
 
-- 🔭 I’m currently working on Zaga
+- 🔭 I’m currently working on Nelso
 
 - 🌱 I’m currently learning **Computer Engineering at University of Aveiro**
 
