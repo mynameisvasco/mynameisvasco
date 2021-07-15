@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco&label=Profile%20views&color=0e75b6&style=plastic" alt="mynameisvasco" /> </p>
 
-- 🔭 I’m currently working on [a http framework called Kito](https://github.com/mynameisvasco/kioto)
+- 🔭 I’m currently working on [a http framework called Kioto](https://github.com/mynameisvasco/kioto)
 
 - 🎓 I’m currently studying **Computer Engineering at University of Aveiro**
 
