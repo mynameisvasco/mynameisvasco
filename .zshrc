@@ -1,4 +1,4 @@
-export ZSH="/Users/vascosousa/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 export NVM_DIR=~/.nvm
 
 ZSH_THEME="spaceship"
