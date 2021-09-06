@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working as a freelancer
 
-- 🎓 I hold a bachelor's degree in **Computer and Telematics Engineering**
+- 🎓 I hold a BSc in **Computer and Telematics Engineering**
+
+- 🎓 I am currently taking a MSc in **Computer and Science**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://vasco.pw](https://vasco.pw)
+- 👨‍💻 My personal website is available at [https://vasco.pw](https://vasco.pw)
 
 - 💬 Ask me about **anything you want, I'm here to answer your questions**
 
