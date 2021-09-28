@@ -7,7 +7,7 @@
 
 - 🎓 I hold a BSc in **Computer and Telematics Engineering**
 
-- 🎓 I am currently taking a MSc in **Computer and Science**
+- 🎓 I am currently taking a MSc in **Software Engineering**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
