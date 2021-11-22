@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco&label=Profile%20views&color=0e75b6&style=plastic" alt="mynameisvasco" /> </p>
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently a graduate student researcher at IEETA, Aveiro
 
 - 🎓 I hold a BSc in **Computer and Telematics Engineering**
 
