@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything you want, I'm here to answer your questions**
 
-- 📫 How to reach me **myemailvasco@gmail.com || jvcs@ua.pt**
+- 📫 How to reach me **mynameisvasco@pm.me || jvcs@ua.pt**
 
 
 <h3 align="left">Languages and Tools:</h3>
