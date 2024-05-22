@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vasco Sousa</h1>
 <h3 align="center">A passionate fullstack developer from Portugal 🇵🇹</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco&label=Profile%20views&color=0e75b6&style=plastic" alt="mynameisvasco" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco&label=Profile%20views&color=0e75b6&style=plastic" alt="mynameisvasco" /> </p>  
 - 🚀 Currently self employed, working in Germany 🇩🇪, based in Portugal 🇵🇹
-  
-- 🔭 Former graduate student researcher at IEETA, Aveiro
 
 - 🎓 I hold a BSc in **Computer and Telematics Engineering**
 
 - 🎓 I hold a MSc in **Software Engineering**
+
+- 🔭 Former graduate student researcher at IEETA, Aveiro
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
